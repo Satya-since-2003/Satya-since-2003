@@ -8,8 +8,7 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satya-since-2003&theme=radical)
 
 
